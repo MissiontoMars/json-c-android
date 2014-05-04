@@ -1,0 +1,11 @@
+prefix=
+exec_prefix=
+libdir=/Users/chenlunyao/Downloads/json-c-0.12
+includedir=/Users/chenlunyao/Downloads/json-c-0.12
+
+Name: json
+Description: JSON implementation in C
+Version: 0.12
+Requires:
+Libs:  -L/Users/chenlunyao/Downloads/json-c-0.12 -ljson-c
+Cflags: -I/Users/chenlunyao/Downloads/json-c-0.12

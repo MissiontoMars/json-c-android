@@ -1,4 +1,10 @@
 json-c-android
 ==============
 
-Port to android, base on json-c-0.12.0
+Build for android, base on json-c-0.12.0
+
+
+```shell
+cd ./android
+ndk-build
+```
